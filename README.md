@@ -6,9 +6,8 @@ Get acces to over 85 Pro tools and services, as well as experience packs:
 
 <img src="assets/intro-to-web-dev.png" alt="intro to web dev" width="356" height="489"/> <img src="assets/primer-codespaces.png" alt="primer: codespaces" width="356" height="489"/>
 <img src="assets/aspiring-creatives.png" alt="aspiring creatives" width="356" height="489"/> <img src="assets/cloud-hackathon.png" alt="hackathon in the cloud" width="356" height="489"/>
-<img src="assets/virtual-event-kit.png" alt="virtual event kit" width="356" height="489"/>
 
-And many more tools!
+And more!
 
 ## How do i join the Global Campus Program?
 
